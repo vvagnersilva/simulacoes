@@ -1,0 +1,95 @@
+{
+  "comment": "# projectile-motion 1.1.0-dev.6 Thu Feb 27 2020 12:05:15 GMT-0900 (Alaskan Standard Time)",
+  "assert": {
+    "sha": "a99a9ce9ee0774bf3ef509bf3e31ca7383f67478",
+    "branch": "master"
+  },
+  "axon": {
+    "sha": "ac530d0779c759ae4dd636965ca139fa42303bbe",
+    "branch": "master"
+  },
+  "brand": {
+    "sha": "bbf2210d952959af2f4ddc2d261c880cd7175524",
+    "branch": "master"
+  },
+  "chipper": {
+    "sha": "0c015c92224318ecf5bcf6fa055398aa8638a792",
+    "branch": "master"
+  },
+  "dot": {
+    "sha": "2089337ad08879ebbc2c9b23dd6dff8329b80ddb",
+    "branch": "master"
+  },
+  "joist": {
+    "sha": "412fe5631f2204428b321a4859ca6e41223a1acb",
+    "branch": "master"
+  },
+  "kite": {
+    "sha": "512391e09242bc8f801f0d8108ca592208d049fd",
+    "branch": "master"
+  },
+  "phet-core": {
+    "sha": "d4bdf6c02468eda3872fa153b736f19d40a597b8",
+    "branch": "master"
+  },
+  "phet-io": {
+    "sha": "ec19828c3894ef0df6fccc663b0916a1ff89a638",
+    "branch": "master"
+  },
+  "phet-io-wrappers": {
+    "sha": "633c1bee83189991244506213b6ad804d8827b87",
+    "branch": "master"
+  },
+  "phetcommon": {
+    "sha": "2b5b4cf6041d95c2fc73525893fc3f1603d24c07",
+    "branch": "master"
+  },
+  "phetmarks": {
+    "sha": "d60d8874f1a04270d21ee8ed0a25a52cdf596c4c",
+    "branch": "master"
+  },
+  "projectile-motion": {
+    "sha": "f205a3db6487959c4fe1010524f61db4e8609c47",
+    "branch": "master"
+  },
+  "query-string-machine": {
+    "sha": "d0435aa45cc13c17aa1c8c9c21882539123249db",
+    "branch": "master"
+  },
+  "scenery": {
+    "sha": "c455433652d805a12036b2d8fc125afac1bd5fd8",
+    "branch": "master"
+  },
+  "scenery-phet": {
+    "sha": "71887e57f3ca210c6e9a55d036d63c488b570a63",
+    "branch": "master"
+  },
+  "sherpa": {
+    "sha": "3e733a56f96762482e2360c692c5ac7ff43eb283",
+    "branch": "master"
+  },
+  "studio": {
+    "sha": "6ef88cd75603c350a5010611acfe7fa5a3fb4fe6",
+    "branch": "master"
+  },
+  "sun": {
+    "sha": "6d8b6e18b55a54d88e20954f9cf46750b82f6219",
+    "branch": "master"
+  },
+  "tambo": {
+    "sha": "6985126b51349c08e3e02aaef9dbd99f9a678c61",
+    "branch": "master"
+  },
+  "tandem": {
+    "sha": "f41c3be5fc52e5b1e733167f46ee91ac1e28b053",
+    "branch": "master"
+  },
+  "twixt": {
+    "sha": "389c7b47cc3c7626f30d06d5eb97a59c2d055c45",
+    "branch": "master"
+  },
+  "utterance-queue": {
+    "sha": "bee7158b797c21e15c1faf4309be9f942ae9de53",
+    "branch": "master"
+  }
+}

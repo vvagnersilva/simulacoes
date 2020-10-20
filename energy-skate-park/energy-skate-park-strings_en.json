@@ -1,0 +1,193 @@
+{
+  "energy-skate-park.title": {
+    "value": "Energy Skate Park"
+  },
+  "physicalControls": {
+    "gravityControls": {
+      "gravity": {
+        "value": "Gravity"
+      },
+      "earth": {
+        "value": "Earth"
+      },
+      "jupiter": {
+        "value": "Jupiter"
+      },
+      "moon": {
+        "value": "Moon"
+      },
+      "gravityMetersPerSecondSquaredPattern": {
+        "value": "{{value}} m/s<sup>2</sup>"
+      }
+    },
+    "massControls": {
+      "mass": {
+        "value": "Mass"
+      },
+      "massKilogramsPattern": {
+        "value": "{{value}} kg"
+      }
+    },
+    "friction": {
+      "value": "Friction"
+    },
+    "custom": {
+      "value": "Custom"
+    },
+    "small": {
+      "value": "Small"
+    },
+    "large": {
+      "value": "Large"
+    },
+    "lots": {
+      "value": "Lots"
+    },
+    "none": {
+      "value": "None"
+    },
+    "tiny": {
+      "value": "Tiny"
+    }
+  },
+  "energies": {
+    "thermal": {
+      "value": "Thermal"
+    },
+    "total": {
+      "value": "Total"
+    },
+    "kinetic": {
+      "value": "Kinetic"
+    },
+    "potential": {
+      "value": "Potential"
+    },
+    "energy": {
+      "value": "Energy"
+    }
+  },
+  "plots": {
+    "barGraph": {
+      "label": {
+        "value": "Bar Graph"
+      }
+    },
+    "energyGraph": {
+      "label": {
+        "value": "Energy Graph"
+      }
+    },
+    "pieChart": {
+      "label": {
+        "value": "Pie Chart"
+      }
+    },
+    "timeSwitchLabel": {
+      "value": "Time"
+    },
+    "positionSwitchLabel": {
+      "value": "Position"
+    },
+    "timeLabel": {
+      "value": "Time (s)"
+    },
+    "positionLabel": {
+      "value": "Position (m)"
+    },
+    "energyLabel": {
+      "value": "Energy (J)"
+    }
+  },
+  "visibilityControls": {
+    "grid": {
+      "value": "Grid"
+    },
+    "referenceHeight": {
+      "value": "Reference Height"
+    },
+    "path": {
+      "value": "Path"
+    },
+    "speed": {
+      "value": "Speed"
+    }
+  },
+  "skaterControls": {
+    "label": {
+      "value": "Skater"
+    },
+    "skater1MassPattern": {
+      "value": "Skater 1 ({{value}} kg)"
+    },
+    "skater2MassPattern": {
+      "value": "Skater 2 ({{value}} kg)"
+    },
+    "skater3MassPattern": {
+      "value": "Skater 3 ({{value}} kg)"
+    },
+    "skater4MassPattern": {
+      "value": "Skater 4 ({{value}} kg)"
+    },
+    "skater5MassPattern": {
+      "value": "Skater 5 ({{value}} kg)"
+    },
+    "dogMassPattern": {
+      "value": "Dog ({{value}} kg)"
+    },
+    "restartSkater": {
+      "value": "Restart Skater"
+    }
+  },
+  "trackControls": {
+    "stickToTrack": {
+      "value": "Stick to Track"
+    }
+  },
+  "screens": {
+    "intro": {
+      "value": "Intro"
+    },
+    "graphs": {
+      "value": "Graphs"
+    },
+    "playground": {
+      "value": "Playground"
+    },
+    "measure": {
+      "value": "Measure"
+    }
+  },
+  "heightLabels": {
+    "zeroM": {
+      "value": "0 m"
+    },
+    "heightEqualsZero": {
+      "value": "Height = 0"
+    }
+  },
+  "pathSensor": {
+    "energyJoulesPattern": {
+      "value": "{{value}} J"
+    },
+    "heightMetersPattern": {
+      "value": "Height = {{value}} m"
+    },
+    "speedMetersPerSecondPattern": {
+      "value": "Speed = {{value}} m/s"
+    }
+  },
+  "speedometer": {
+    "label": {
+      "value": "Speed"
+    },
+    "metersPerSecondPattern": {
+      "value": "{{value}} m/s"
+    }
+  },
+  "measuringTape": {
+    "units": {
+      "value": "m"
+    }
+  }
+}

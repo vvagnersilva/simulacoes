@@ -1,0 +1,134 @@
+{
+  "projectile-motion.title": {
+    "value": "Projectile Motion"
+  },
+  "screen.lab": {
+    "value": "Lab"
+  },
+  "screen.error": {
+    "value": "Erros"
+  },
+  "screen.intro": {
+    "value": "Intro"
+  },
+  "screen.drag": {
+    "value": "Arrastar"
+  },
+  "screen.vectors": {
+    "value": "Vetores"
+  },
+  "pattern0Value1Units": {
+     "value": "{{value}}{{units}}"
+  },
+  "pattern0Value1UnitsWithSpace": {
+    "value": "{{value}} {{units}}"
+  },
+  "custom": {
+    "value": "Personalizado"
+  },
+  "enter": {
+    "value": "Entrar"
+  },
+  "angle": {
+    "value": "Ângulo"
+  },
+  "height": {
+    "value": "Altura"
+  },
+  "gravity": {
+    "value": "Gravidade"
+  },
+  "m": {
+    "value": "m"
+  },
+  "meters": {
+    "value": "metros"
+  },
+  "mass": {
+    "value": "Massa"
+  },
+  "kg": {
+    "value": "kg"
+  },
+  "diameter": {
+    "value": "Diâmetro"
+  },
+  "initialSpeed": {
+    "value": "Velocidade Inicial"
+  },
+  "altitude": {
+    "value": "Altitude"
+  },
+  "speed": {
+     "value": "Velocidade"
+  },
+  "metersPerSecond": {
+    "value": "m/s"
+  },
+  "metersPerSecondSquared": {
+    "value": "m/s\u00b2"
+  },
+  "dragCoefficient": {
+    "value": "Coeficiente de atrito"
+  },
+  "airResistance": {
+    "value": "Resistência do ar"
+  },
+  "time": {
+    "value": "Tempo"
+  },
+  "s": {
+    "value": "s"
+  },
+  "range": {
+    "value": "Alcance"
+  },
+  "cannonball": {
+    "value": "Bala de canhão"
+  },
+  "pumpkin": {
+    "value": "Abóbora"
+  },
+  "baseball": {
+    "value": "Beisebol"
+  },
+  "car": {
+    "value": "Carro"
+  },
+  "football": {
+    "value": "Futebol"
+  },
+  "human": {
+    "value": "Humano"
+  },
+  "piano": {
+    "value": "Piano"
+  },
+  "golfBall": {
+    "value": "Bola de golfe"
+  },
+  "tankShell": {
+    "value": "Reservatório"
+  },
+  "initialValues": {
+    "value": "Valores Iniciais"
+  },
+  "velocityVectors": {
+    "value": "Vetor velocidade"
+  },
+  "accelerationVectors": {
+    "value": "Vetor aceleração"
+  },
+  "forceVectors": {
+    "value": "Vetor força"
+  },
+  "total": {
+    "value": "Total"
+  },
+  "components": {
+    "value": "Componentes"
+  },
+  "rangeMessage": {
+    "value": "{{min}} para {{max}} {{units}}"
+  }
+}
